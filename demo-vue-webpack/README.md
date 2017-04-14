@@ -1,4 +1,4 @@
-# example-vue-webpack
+# demo-vue-webpack
 An example for vue and webpack
 
 ## Build Setup
